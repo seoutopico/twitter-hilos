@@ -6,3 +6,4 @@ requests
 beautifulsoup4
 pydantic
 tweepy
+langchain_community
