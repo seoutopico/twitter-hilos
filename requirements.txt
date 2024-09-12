@@ -1,0 +1,8 @@
+python-dotenv
+langchain
+openai
+streamlit
+requests
+beautifulsoup4
+pydantic
+tweepy
