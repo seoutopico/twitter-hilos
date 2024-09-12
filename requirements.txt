@@ -7,3 +7,4 @@ beautifulsoup4
 pydantic
 tweepy
 langchain_community
+tiktoken
